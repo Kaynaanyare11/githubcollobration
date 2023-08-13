@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import Next from './assets/NextPage'
 import './App.css'
 
 function App() {
@@ -15,6 +16,9 @@ function App() {
       <h1>
         Samething would be great
       </h1>
+        <h2>
+        <Next/>
+      </h2>
     </div>
     </>
   )
