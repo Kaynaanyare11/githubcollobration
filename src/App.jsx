@@ -12,6 +12,9 @@ function App() {
       Hello my funs i'm here to teach you github collobrations
       Hello my funs i'm here to teach you github collobrations
       Hello my funs i'm here to teach you github collobrations
+      <h1>
+        Samething would be great
+      </h1>
     </div>
     </>
   )
